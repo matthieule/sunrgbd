@@ -1,4 +1,4 @@
-# sunrgbd
+# SUNRGBD
 
 Python tool to curate the [SUNRGBD](http://rgbd.cs.princeton.edu/) database for semantic segmentation
 
@@ -25,6 +25,10 @@ python scripts/parse_database.py --path_2_database {path_2_database} --path_2_to
 Which will create a database with grayscale images of size 128x128. It will
 save the image in an `image` folder in `output_dir`, and the labels in a
 `label` folder in `output_dir`. The database will be 170M.
+
+# Example images
+
+
 
 # References
 
