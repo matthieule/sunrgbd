@@ -28,7 +28,11 @@ save the image in an `image` folder in `output_dir`, and the labels in a
 
 # Example images
 
+<img src="https://github.com/matthieule/sunrgbd/blob/master/data/0.png" alt="alt text" width=500px>
 
+<img src="https://github.com/matthieule/sunrgbd/blob/master/data/100.png" alt="alt text" width=500px><Paste>
+
+<img src="https://github.com/matthieule/sunrgbd/blob/master/data/600.png" alt="alt text" width=500px>
 
 # References
 
